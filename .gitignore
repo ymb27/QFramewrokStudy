@@ -2,6 +2,9 @@
 #
 /.vscode/
 .vsconfig
+.editorconfig
+Microsoft.Unity.Analyzers.dll
+omnisharp.json
 # Get latest from https://github.com/github/gitignore/blob/master/Unity.gitignore
 #
 /[Ll]ibrary/
